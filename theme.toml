@@ -1,18 +1,18 @@
-name = "Blackburn"
+name = "BurnedBefore"
 license = "MIT"
-licenselink = "https://github.com/yoshiharuyamashita/blackburn/blob/master/LICENSE.md"
-description = "A clear, responsive theme constructed using Pure CSS from Yahoo"
-homepage = "https://github.com/yoshiharuyamashita/blackburn"
-tags = ["blog", "personal", "purecss", "responsive"]
-features = ["blog", "personal", "purecss", "responsive"]
+licenselink = "https://github.com/cathalgarvey/burnedbefore/blob/master/LICENSE.md"
+description = "The Blackburn theme, with CDN-shipped CSS/JS/Fonts stripped out and vendored for privacy."
+homepage = "https://github.com/cathalgarvey/burnedbefore"
+tags = ["blog", "personal", "purecss", "responsive", "privacy"]
+features = ["blog", "personal", "purecss", "responsive", "privacy"]
 min_version = 0.15
 
 [author]
-  name = "Yoshiharu Yamashita"
-  homepage = "https://github.com/yoshiharuyamashita"
+  name = "Cathal Garvey"
+  homepage = "https://github.com/cathalgarvey/burnedbefore"
 
 # If porting an existing theme
 [original]
-  name = "Responsive side menu"
-  homepage = "http://purecss.io/layouts/"
-  repo = "https://github.com/yahoo/pure"
+  name = "Blackburn"
+  homepage = "https://github.com/yoshiharuyamashita"
+  repo = "https://github.com/yoshiharuyamashita"
