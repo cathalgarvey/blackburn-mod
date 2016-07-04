@@ -1,9 +1,3 @@
----
-date: 2000-01-01T10:00:00+01:00
-draft: false
-slug: tracker-free
-title: "Tracker Free"
----
 TL;DR: This theme is modified lovingly to reduce your exposure to the global surveillance apparatus,
 meaning Google, Cloudflare, Facebook, and other "social" sites. You should take this and other
 aspects of privacy and rights seriously.
