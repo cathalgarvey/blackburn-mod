@@ -2,7 +2,7 @@ body {
     color: #777;
 }
 
-.pure-img-responsive {
+.pure-img-responsive, .content img {
     max-width: 100%;
     height: auto;
 }
