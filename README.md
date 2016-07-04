@@ -1,6 +1,8 @@
 # Blackburn
 
-Blackburn is a clear and responsive theme for [Hugo](//gohugo.io).
+Blackburn is a clear and responsive theme for [Hugo](//gohugo.io), by [Yoshiharu Yamashita](https://github.com/yoshiharuyamashita/blackburn).
+Blackburn-mod is a light modification of Blackburn to disintermediate fonts, css, and javascript in order to reduce users' exposure
+to the global surveillance apparatus.
 
 ## Overview
 
