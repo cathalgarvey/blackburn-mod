@@ -1,15 +1,15 @@
-name = "BurnedBefore"
+name = "Blackburn-mod"
 license = "MIT"
-licenselink = "https://github.com/cathalgarvey/burnedbefore/blob/master/LICENSE.md"
+licenselink = "https://github.com/cathalgarvey/blackburn-mod/blob/master/LICENSE.md"
 description = "The Blackburn theme, with CDN-shipped CSS/JS/Fonts stripped out and vendored for privacy."
-homepage = "https://github.com/cathalgarvey/burnedbefore"
+homepage = "https://github.com/cathalgarvey/blackburn-mod"
 tags = ["blog", "personal", "purecss", "responsive", "privacy"]
 features = ["blog", "personal", "purecss", "responsive", "privacy"]
 min_version = 0.15
 
 [author]
   name = "Cathal Garvey"
-  homepage = "https://github.com/cathalgarvey/burnedbefore"
+  homepage = "https://github.com/cathalgarvey/blackburn-mod"
 
 # If porting an existing theme
 [original]
