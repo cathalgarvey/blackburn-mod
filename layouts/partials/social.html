@@ -111,6 +111,12 @@
     </li>
     {{ end }}
 
+    {{ with .Site.Social.gitlab }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://gitlab.com/{{ . }}" target="_blank"><i class="fa fa-gitlab-square fa-fw"></i>Gitlab</a>
+    </li>
+    {{ end }}
+
     {{ with .Site.Social.bitbucket }}
     <li class="pure-menu-item">
       <a class="pure-menu-link" href="https:////bitbucket.org/{{ . }}" target="_blank"><i class="fa fa-bitbucket-square fa-fw"></i>Bitbucket</a>
