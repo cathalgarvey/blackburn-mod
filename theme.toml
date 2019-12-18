@@ -5,7 +5,7 @@ description = "The Blackburn theme, with CDN-shipped CSS/JS/Fonts stripped out a
 homepage = "https://github.com/cathalgarvey/blackburn-mod"
 tags = ["blog", "personal", "purecss", "responsive", "privacy"]
 features = ["blog", "personal", "purecss", "responsive", "privacy"]
-min_version = 0.15
+min_version = 0.61
 
 [author]
   name = "Cathal Garvey"
