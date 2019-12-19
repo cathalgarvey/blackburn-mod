@@ -1,6 +1,10 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ if .Site.Params.referrerpolicy }}
+  <meta name="referrer" content="{{ .Site.Params.referrerpolicy }}">
+  {{ end }}
+
   <meta name="description" content="{{ if .IsNode }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
   {{hugo.Generator}}
 
